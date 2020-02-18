@@ -1,0 +1,33 @@
+/* Styling for DCinterest page */
+
+body {
+    position: relative;
+}
+
+header {
+
+    position: relative;
+    background-color: #353a40;
+    width: 100vw;
+    height: 13vh;
+
+}
+
+#logo {
+
+    position: absolute;
+}
+
+#logo>img {
+
+    margin-top: 15px;
+    position: absolute;
+}
+
+#logo>p {
+
+    color: #929493;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 30px;
+}
