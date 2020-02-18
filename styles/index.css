@@ -9,7 +9,7 @@ header {
     position: relative;
     background-color: #353a40;
     width: 100vw;
-    height: 13vh;
+    height: 8vh;
 
 }
 
@@ -30,4 +30,27 @@ header {
     margin-left: 150px;
     margin-top: 10px;
     font-size: 30px;
+}
+
+#top-menu {
+
+    position: absolute;
+    width: 400px;
+    left: 70%;
+    color: #929493;
+}
+
+#top-menu>ul {
+
+    width: 400px;
+    list-style-type: none;
+    
+}
+
+#top-menu>ul>li {
+
+    
+    display: inline;
+    margin-right: 10px;
+
 }
